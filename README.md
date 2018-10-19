@@ -1,3 +1,6 @@
+This fork's purpose is making it work with <a href="https://github.com/arturdev/AMRefresher">AMRefresher</a>
+
+
 # MXParallaxHeader
 
 [![CI Status](http://img.shields.io/travis/maxep/MXParallaxHeader.svg?style=flat)](https://travis-ci.org/maxep/MXParallaxHeader)
